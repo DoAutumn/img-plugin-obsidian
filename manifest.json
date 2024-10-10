@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "Gitee-Image-Plugin",
+	"name": "Gitee 图床",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "使用 Gitee 作为图床",
+	"author": "DoAutumn",
+	"authorUrl": "https://doautumn.github.io/",
 	"isDesktopOnly": false
 }
